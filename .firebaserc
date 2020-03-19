@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularfirebaseauth-7a272": {
+      "hosting": {
+        "stocks": [
+          "angularfirebaseauth-7a272"
+        ]
+      }
+    }
+  }
+}
